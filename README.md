@@ -2,4 +2,4 @@
 
 - 🔭 Atualmente trabalho como assistente administrativo.
 - 🌱 Tenho desejo de me tornar um desenvolvedor FullStack
-- 👯 Atualmente estou estudando HTML, JS, CSS pela DevMedia.
+- 👯 No momento estou estudando HTML, JS, CSS e ReactJS pela DevMedia.
