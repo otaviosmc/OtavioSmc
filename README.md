@@ -10,6 +10,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" title="React"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" title="TailwindCSS"/>
 </div>
+<br /><br /><br />
 
 ## :e-mail: CONTATOS :e-mail:
           
