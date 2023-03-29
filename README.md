@@ -2,8 +2,10 @@
 
 - :office_worker: Atualmente trabalho como assistente administrativo. :office_worker:
 - 🌱 Tenho desejo de me tornar um desenvolvedor FullStack. 🌱
-#
-#
+
+
+
+
 ## :computer: TECNOLOGIAS :computer:
 <div style="display:flex">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50px" title="HTML"/>
@@ -12,8 +14,10 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" title="React"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" title="TailwindCSS"/>
 </div>
-#
-#
+
+
+
+
 ## :e-mail: CONTATOS :e-mail:
           
 <div style="display:flex">
