@@ -4,4 +4,4 @@
 - 🌱 Tenho desejo de me tornar um desenvolvedor FullStack. 🌱
 
 ## :computer: Tecnologias :computer:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30px" />
