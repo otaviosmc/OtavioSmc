@@ -12,7 +12,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" title="TailwindCSS"/>
 </div>
 <br /><br /><br />
-## 📧CONTATOS📧
+## 💻TECNOLOGIAS💻
  <br />         
 <div style="display:flex">
           <a href = "mailto:contato.otaviosimoncini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
