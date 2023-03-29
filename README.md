@@ -3,7 +3,7 @@
 - :office_worker: Atualmente trabalho como assistente administrativo. :office_worker:
 - 🌱 Tenho desejo de me tornar um desenvolvedor FullStack. 🌱
 ## 💻TECNOLOGIAS💻
-<br /><br /><br />
+<br />
 <div style="display:flex">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50px" title="HTML"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50px" title="CSS"/>
@@ -12,7 +12,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" title="TailwindCSS"/>
 </div>
 <br /><br /><br />
-## 💻TECNOLOGIAS💻
+### 💻TECNOLOGIAS💻
  <br />         
 <div style="display:flex">
           <a href = "mailto:contato.otaviosimoncini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
