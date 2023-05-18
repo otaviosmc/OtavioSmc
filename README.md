@@ -1,16 +1,18 @@
 <h1>🙋‍♂️OLÁ! EU SOU O OTÁVIO🙋‍♂️</h1>
 <br />
-- :office_worker: Atualmente trabalho como assistente administrativo. :office_worker:
-<br />- 🌱 Tenho desejo de me tornar um desenvolvedor FullStack. 🌱
+- :office_worker: <h3>Atualmente trabalho como assistente administrativo.</h3> :office_worker:
+<br />- 🌱 <h3>Tenho desejo de me tornar um desenvolvedor FullStack.</h3> 🌱
  <br />
 <h2>💻TECNOLOGIAS💻</h2>
 <br />
 <div style="display:flex">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50px" title="HTML"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50px" title="CSS"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px" title="JavaScript"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" title="React"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" title="TailwindCSS"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="25px" title="HTML"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="25px" title="CSS"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="25px" title="JavaScript"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25px" title="React"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="25px" title="TailwindCSS"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25px" title="NodeJs"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="25px" title="Express"/>
 </div>
 <br />
 <h2>💻CONTATOS💻</h2>
