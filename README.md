@@ -1,7 +1,7 @@
 <h1>🙋‍♂️OLÁ! EU SOU O OTÁVIO🙋‍♂️</h1>
 <br />
-- :office_worker: <h3>Atualmente trabalho como assistente administrativo.</h3> :office_worker:
-<br />- 🌱 <h3>Tenho desejo de me tornar um desenvolvedor FullStack.</h3> 🌱
+ <h3>- :office_worker: Atualmente trabalho como assistente administrativo. :office_worker:</h3> 
+<br /> <h3>- 🌱 Tenho desejo de me tornar um desenvolvedor FullStack.  🌱</h3>
  <br />
 <h2>💻TECNOLOGIAS💻</h2>
 <br />
