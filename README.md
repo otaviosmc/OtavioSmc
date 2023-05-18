@@ -1,3 +1,9 @@
+<style>
+ h3{
+  margin: 0 auto;
+ }
+</style>
+
 <h1>🙋‍♂️OLÁ! EU SOU O OTÁVIO🙋‍♂️</h1>
 <br />
  <h3>- :office_worker: Atualmente trabalho como assistente administrativo. :office_worker:</h3> 
