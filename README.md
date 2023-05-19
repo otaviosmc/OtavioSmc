@@ -1,7 +1,4 @@
-
-
-<div style="background-color: #f0f0f0">
- <h2> 🙋🏻‍♂️ OLÁ, EU SOU O OTÁVIO 🙋🏻‍♂️</h2>
+<h2> 🙋🏻‍♂️ OLÁ, EU SOU O OTÁVIO 🙋🏻‍♂️</h2>
  <p style="margin-top: 0px; margin-bottom: 0px">- 👨🏻‍💼 Atualmente trabalho como assistente administrativo. 👨🏻‍💼</p> 
  <p>- 🌱 Tenho desejo de me tornar um desenvolvedor FullStack.  🌱</p>
 <h3>💻TECNOLOGIAS💻</h3>
@@ -31,5 +28,4 @@
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
    
   ![snake gif](https://github.com/otaviosmc/otaviosmc/blob/output/github-contribution-grid-snake.svg)
-</div>
 </div>
