@@ -1,5 +1,5 @@
 <h2> 🙋🏻‍♂️ OLÁ, EU SOU O OTÁVIO 🙋🏻‍♂️</h2>
- <p style="margin-top: 0px; margin-bottom: 0px">- 👨🏻‍💼 Atualmente trabalho como Desenvolvedor Junior PHP. 👨🏻‍💼</p> 
+ <p style="margin-top: 0px; margin-bottom: 0px">- 👨🏻‍💼 Atualmente trabalho como Técnico de Suporte a Sistemas. 👨🏻‍💼</p> 
 <h3>💻TECNOLOGIAS💻</h3>
 
 <div style="display:flex">
